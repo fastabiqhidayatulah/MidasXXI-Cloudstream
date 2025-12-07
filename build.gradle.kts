@@ -1,4 +1,3 @@
-cat > build.gradle.kts << 'EOF'
 version = 1
 
 cloudstream {
