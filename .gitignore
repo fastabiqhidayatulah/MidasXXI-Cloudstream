@@ -1,8 +1,5 @@
 .gradle/
 build/
-gradle/
-gradlew
-gradlew.bat
 local.properties
 *.log
 .idea/
@@ -16,6 +13,4 @@ local.properties
 bin/
 gen/
 out/
-.externalNativeBuild
 .cxx/
-EOF
