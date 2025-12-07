@@ -1,4 +1,3 @@
-cat > src/main/kotlin/com/example/MidasXXIPlugin.kt << 'EOF'
 package com.example
 
 import com.lagradost.cloudstream3.plugins.CloudstreamPlugin
